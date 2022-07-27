@@ -4,8 +4,7 @@ This website was created following the [nentninja tutorial playlist](https://you
 
 ## Views
 Here are the views of the final website as the appear on various devices.
-![mobile](./img/mobile.png) ![tablet](./img/tablet.png)
-![laptop](./img/laptop.png)
+![device views](./img/views.png)
 
 ## Comments
 This project has been very educative. I have gained perspective on why "mobile first" and how to use grid to simplify layouts.
